@@ -7,4 +7,5 @@
 AseelBennagi/AseelBennagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[AseelBenagi--CV.pdf](https://github.com/AseelBennagi/AseelBennagi/files/8492415/AseelBenagi--CV.pdf)
+
+[AseelBenagi--CV .pdf](https://github.com/AseelBennagi/AseelBennagi/files/8550586/AseelBenagi--CV.pdf)
