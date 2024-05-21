@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AseelBennagi
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning Java and Spring framework
+- 🌱 I’m currently learning React and NEXT framework
 - 📫 How to reach me: aseelbennaji@yahoo.com  // phone: +40735744309
 
 <!---
@@ -8,7 +8,8 @@ AseelBennagi/AseelBennagi is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+[Aseel_Bennagi_CV.pdf](https://github.com/AseelBennagi/AseelBennagi/files/15392551/Aseel_Bennagi_CV.pdf)
 
 
-[Aseel_Bennaji-CV.pdf](https://github.com/AseelBennagi/AseelBennagi/files/8767045/Aseel_Bennaji-CV.pdf)
+
 
